@@ -56,8 +56,6 @@
                 </div>
             </div>
             <button type="submit" class="btn btn-primary" id="submit">Inscription</button>
-            <!-- EN FIN DE PROJET, NE LAISSER QU'UN BOUTON EN DUPLIQUANT ID VERS TYPE SUBMIT
-            <button type="button" class="btn btn-warning" id="submit">Inscription (AJAX)</button> -->
             <span id="spinner">
                 <img src="spinner.gif" width="50" height="50">
             </span>
